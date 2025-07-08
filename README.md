@@ -55,7 +55,7 @@ The calculator supports a comprehensive set of mathematical, scientific, and log
    If double-clicking doesn't work, you can run it manually via terminal or command prompt:
 
    ```bash
-   java -jar CalculatorApp.jar
+   java -jar Calculator.jar
    ```
 
 ## 🧑‍💻 Developer Notes
